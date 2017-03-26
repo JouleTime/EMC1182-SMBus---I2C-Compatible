@@ -1,6 +1,8 @@
 //This sketch was written by Frank Fox for JouleTime.
-//Find us at https://www.facebook.com/JouleTime
-//Shop at our store on Amazon at http://www.amazon.com/s/ref=bl_sr_electronics?ie=UTF8&field-brandtextbin=JouleTime&node=172282.
+//Find us at http://www.jouletime.com
+//Shop our listings on Ebay at http://www.ebay.com/usr/jouletime
+//Find the I2C library at DSS Circuits http://dsscircuits.com/articles/86-articles/66-arduino-i2c-master-library
+//Or you can go to Github here: https://github.com/rambo/I2C
 
 /* This sketch will demonstrate how to use the Dual Channel Temperature Sensor, EMC1182, from Microchip
  
